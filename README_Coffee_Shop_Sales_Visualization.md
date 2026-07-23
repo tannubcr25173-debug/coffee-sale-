@@ -104,6 +104,6 @@ After completing this project, students will be able to:
 
 ## Author
 
-**Name:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Name:** Tannu Kumari
 
-**GitHub:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**GitHub:** https://github.com/tannubcr25173-debug
